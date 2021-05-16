@@ -1,2 +1,2 @@
-# Vue.js-DWEC2
+# Vue.js-DWEC
 Created with CodeSandbox
